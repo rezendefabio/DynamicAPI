@@ -1,0 +1,19 @@
+# Arquivos do IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build e dependências do Maven (backend)
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Node.js e React.js (frontend)
+node_modules/
+build/
+.DS_Store
+.env
+
+# Logs e arquivos temporários
+*.log
+*.tmp
